@@ -1,1 +1,9 @@
 Eseguire la funzione list=parseENCI() per ottenere una tabella aggiornata delle razze.
+
+La funzione parseENCI richiama le funzioni extractByletter e parseBREED.
+
+extractByletter
+Richiede, in ingresso, una lettera dell'alfabeto e l'URL di base fornisce, in uscita, una tabella (preliminare) comprendente la razza, il gruppo, la sezione e l'URL della razza specifica.
+
+La funzione 
+
