@@ -1,0 +1,481 @@
+Breed,FCI,GroupId,GroupName,SectionId,SectionName,VarietyCode,VarietyName,URL
+AUSTRALIAN SHEPHERD,342,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/australian-shepherd
+AUSTRALIAN CATTLEDOG,287,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),2,CANI DA BOVARI (ESCLUSO BOVARI SVIZZERI),,,https://www.enci.it/libro-genealogico/razze/australian-cattledog
+AUSTRALIAN STUMPY TAIL CATTLE DOG,351,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),2,CANI DA BOVARI (ESCLUSO BOVARI SVIZZERI),,,https://www.enci.it/libro-genealogico/razze/australian-stumpy-tail-cattle-dog
+AFFENPINSCHER,186,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,,,https://www.enci.it/libro-genealogico/razze/affenpinscher
+ALANO,235,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,A,"FULVO",https://www.enci.it/libro-genealogico/razze/alano
+ALANO,235,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,B,"TIGRATO",https://www.enci.it/libro-genealogico/razze/alano
+ALANO,235,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,C,"NERO",https://www.enci.it/libro-genealogico/razze/alano
+ALANO,235,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,D,"ARLECCHINO",https://www.enci.it/libro-genealogico/razze/alano
+ALANO,235,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,E,"MERLE",https://www.enci.it/libro-genealogico/razze/alano
+ALANO,235,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,F,"BLU",https://www.enci.it/libro-genealogico/razze/alano
+AIREDALE TERRIER,007,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/airedale-terrier
+AUSTRALIAN TERRIER,008,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/australian-terrier
+AMERICAN STAFFORDSHIRE TERRIER,286,3,TERRIER,3,TERRIER DI TIPO BULL (GAMBA LUNGA),,,https://www.enci.it/libro-genealogico/razze/american-staffordshire-terrier
+AUSTRALIAN SILKY TERRIER,236,3,TERRIER,4,TERRIER DI COMPAGNIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/australian-silky-terrier
+ALASKAN MALAMUTE,243,5,CANI TIPO SPITZ E TIPO PRIMITIVO,1,CANI NORDICI DA SLITTA,,,https://www.enci.it/libro-genealogico/razze/alaskan-malamute
+AKITA,255,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/akita
+AKITA AMERICANO,344,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/akita-americano
+ANJING KINTAMANI-BALI,362,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/anjing-kintamani-bali
+ANGLO FRANCAIS DE PETITE VENERIE,325,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/anglo-francais-de-petite-venerie
+ARIEGEOIS,020,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/ariegeois
+ALPENLAENDISCHE DACHSBRACKE,254,6,SEGUGI E CANI PER PISTA DI SANGUE,2,SEGUGI E CANI PER PISTA DI SANGUE,,,https://www.enci.it/libro-genealogico/razze/alpenlaendische-dachsbracke
+AMERICAN WATER SPANIEL,301,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,3,CANI DA ACQUA,,,https://www.enci.it/libro-genealogico/razze/american-water-spaniel
+AZAWAKH,307,10,LEVRIERI,3,LEVRIERI A PELO CORTO,,,https://www.enci.it/libro-genealogico/razze/azawakh
+BEARDED COLLIE,271,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/bearded-collie
+BORDER COLLIE,297,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/border-collie
+BOVARO DELLE ARDENNE,171,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),2,CANI DA BOVARI (ESCLUSO BOVARI SVIZZERI),,,https://www.enci.it/libro-genealogico/razze/bovaro-delle-ardenne
+BOVARO DELLE FIANDRE,191,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),2,CANI DA BOVARI (ESCLUSO BOVARI SVIZZERI),,,https://www.enci.it/libro-genealogico/razze/bovaro-delle-fiandre
+BOXER,144,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,A,"FULVO",https://www.enci.it/libro-genealogico/razze/boxer
+BOXER,144,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,B,"TIGRATO",https://www.enci.it/libro-genealogico/razze/boxer
+BROHOLMER,315,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/broholmer
+BULLDOG,149,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/bulldog
+BULLMASTIFF,157,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/bullmastiff
+BOVARO DEL BERNESE,045,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,3,BOVARI SVIZZERI,,,https://www.enci.it/libro-genealogico/razze/bovaro-del-bernese
+BOVARO DELL'APPENZELL,046,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,3,BOVARI SVIZZERI,,,https://www.enci.it/libro-genealogico/razze/bovaro-dell-appenzell
+BOVARO DELL'ENTLEBUCH,047,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,3,BOVARI SVIZZERI,,,https://www.enci.it/libro-genealogico/razze/bovaro-dell-entlebuch
+BEDLINGTON TERRIER,009,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/bedlington-terrier
+BORDER TERRIER,010,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/border-terrier
+BULL TERRIER INGLESE MINIATURA,359,3,TERRIER,3,TERRIER DI TIPO BULL (GAMBA LUNGA),,,https://www.enci.it/libro-genealogico/razze/bull-terrier-inglese-miniatura
+BULL TERRIER INGLESE TAGLIA NORMALE,011,3,TERRIER,3,TERRIER DI TIPO BULL (GAMBA LUNGA),,,https://www.enci.it/libro-genealogico/razze/bull-terrier-inglese-taglia-normale
+BASSOTTI TEDESCHI,148,4,BASSOTTI,1,BASSOTTI,KA,"KANINCHEN A PELO CORTO",https://www.enci.it/libro-genealogico/razze/bassotti-tedeschi
+BASSOTTI TEDESCHI,148,4,BASSOTTI,1,BASSOTTI,KB,"KANINCHEN A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/bassotti-tedeschi
+BASSOTTI TEDESCHI,148,4,BASSOTTI,1,BASSOTTI,KC,"KANINCHEN A PELO DURO",https://www.enci.it/libro-genealogico/razze/bassotti-tedeschi
+BASSOTTI TEDESCHI,148,4,BASSOTTI,1,BASSOTTI,NA,"NANO A PELO CORTO",https://www.enci.it/libro-genealogico/razze/bassotti-tedeschi
+BASSOTTI TEDESCHI,148,4,BASSOTTI,1,BASSOTTI,NB,"NANO A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/bassotti-tedeschi
+BASSOTTI TEDESCHI,148,4,BASSOTTI,1,BASSOTTI,NC,"NANO A PELO DURO",https://www.enci.it/libro-genealogico/razze/bassotti-tedeschi
+BASSOTTI TEDESCHI,148,4,BASSOTTI,1,BASSOTTI,SA,"STANDARD A PELO CORTO",https://www.enci.it/libro-genealogico/razze/bassotti-tedeschi
+BASSOTTI TEDESCHI,148,4,BASSOTTI,1,BASSOTTI,SB,"STANDARD A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/bassotti-tedeschi
+BASSOTTI TEDESCHI,148,4,BASSOTTI,1,BASSOTTI,SC,"STANDARD A PELO DURO",https://www.enci.it/libro-genealogico/razze/bassotti-tedeschi
+BASENJI,043,5,CANI TIPO SPITZ E TIPO PRIMITIVO,6,TIPO PRIMITIVO,,,https://www.enci.it/libro-genealogico/razze/basenji
+BASSETT ARTESIAN NORMAND,034,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/bassett-artesian-normand
+BASSET BLUE DE GASCOGNE,035,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/basset-blue-de-gascogne
+BASSETT FAUVE DE BRETAGNE,036,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/bassett-fauve-de-bretagne
+BASSETHOUND,163,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/bassethound
+BEAGLE,161,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/beagle
+BEAGLE HARRIER,290,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/beagle-harrier
+BILLY,025,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/billy
+BLACK AND TAN COONHOUND,300,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/black-and-tan-coonhound
+BLOODHOUND CHIEN DE SAINT-UBERT,084,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/bloodhound-chien-de-saint-ubert
+BRIQUET GRIFFON VENDEEN,019,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/briquet-griffon-vendeen
+BAYERISCHER GEBIRGSSCHWEISSHUND,217,6,SEGUGI E CANI PER PISTA DI SANGUE,2,SEGUGI E CANI PER PISTA DI SANGUE,,,https://www.enci.it/libro-genealogico/razze/bayerischer-gebirgsschweisshund
+BRACCO D'ARIEGE,177,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-d-ariege
+BRACCO D'AUVERGNE,180,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-d-auvergne
+BRACCO DEL BOURBONNAIS,179,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-del-bourbonnais
+BRACCO DI BURGOS,090,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-di-burgos
+BRACCO FRANCESE TIPO GASCOGNE,133,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-francese-tipo-gascogne
+BRACCO FRANCESE TIPO PIRENEI,134,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-francese-tipo-pirenei
+BRACCO ITALIANO,202,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,A,"BIANCO ARANCIO",https://www.enci.it/libro-genealogico/razze/bracco-italiano
+BRACCO ITALIANO,202,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,B,"ROANO MARRONE",https://www.enci.it/libro-genealogico/razze/bracco-italiano
+BRACCO PORTOGHESE,187,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-portoghese
+BRACCO SAINT GERMAIN,115,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-saint-germain
+BRACCO SLOVACCO A PELO DURO,320,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-slovacco-a-pelo-duro
+BRACCO UNGHERESE A PELO CORTO,057,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-ungherese-a-pelo-corto
+BRACCO UNGHERESE A PELO DURO,239,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/bracco-ungherese-a-pelo-duro
+BARBET,105,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,3,CANI DA ACQUA,,,https://www.enci.it/libro-genealogico/razze/barbet
+BICHON A POIL FRISE,215,9,CANI DA COMPAGNIA,1,BICHONS E AFFINI,,,https://www.enci.it/libro-genealogico/razze/bichon-a-poil-frise
+BICHON HAVANAIS,250,9,CANI DA COMPAGNIA,1,BICHONS E AFFINI,,,https://www.enci.it/libro-genealogico/razze/bichon-havanais
+BOLOGNESE,196,9,CANI DA COMPAGNIA,1,BICHONS E AFFINI,,,https://www.enci.it/libro-genealogico/razze/bolognese
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,GA,"GRANDE MOLE BIANCO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,GB,"GRANDE MOLE MARRONE",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,GC,"GRANDE MOLE NERO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,GD,"GRANDE MOLE GRIGIO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,GG,"GRANDE MOLE FULVO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,GH,"GRANDE MOLE ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,MA,"MEDIA MOLE BIANCO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,MB,"MEDIA MOLE MARRONE",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,MC,"MEDIA MOLE NERO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,MD,"MEDIA MOLE GRIGIO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,MG,"MEDIA MOLE FULVO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,MH,"MEDIA MOLE ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,NA,"NANO BIANCO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,NB,"NANO MARRONE",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,NC,"NANO NERO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,ND,"NANO GRIGIO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,NG,"NANO FULVO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,NH,"NANO ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,TA,"TOY BIANCO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,TB,"TOY MARRONE",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,TC,"TOY NERO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,TD,"TOY GRIGIO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,TG,"TOY FULVO",https://www.enci.it/libro-genealogico/razze/barboni
+BARBONI,172,9,CANI DA COMPAGNIA,2,BARBONI,TH,"TOY ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/barboni
+BOSTON TERRIER,140,9,CANI DA COMPAGNIA,11,MOLOSSOIDI DI PICCOLA TAGLIA,,,https://www.enci.it/libro-genealogico/razze/boston-terrier
+BOULEDOGUE FRANCESE,101,9,CANI DA COMPAGNIA,11,MOLOSSOIDI DI PICCOLA TAGLIA,A,"SENZA MACCHIE BIANCHE ESTESE",https://www.enci.it/libro-genealogico/razze/bouledogue-francese
+BOULEDOGUE FRANCESE,101,9,CANI DA COMPAGNIA,11,MOLOSSOIDI DI PICCOLA TAGLIA,B,"CON MACCHIE BIANCHE ESTESE",https://www.enci.it/libro-genealogico/razze/bouledogue-francese
+BARZOI,193,10,LEVRIERI,1,LEVRIERI A PELO LUNGO O FRANGIATO,,,https://www.enci.it/libro-genealogico/razze/barzoi
+CANE DA PASTORE ABRUZZESE MAREMMANO,201,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-abruzzese-maremmano
+CANE DA PASTORE AUSTRALIANO KELPIE,293,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-australiano-kelpie
+CANE DA PASTORE BELGA,015,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,A,"GROENENDAEL",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-belga
+CANE DA PASTORE BELGA,015,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,B,"LAKENOIS",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-belga
+CANE DA PASTORE BELGA,015,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,C,"MALINOIS",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-belga
+CANE DA PASTORE BELGA,015,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,D,"TERVUEREN",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-belga
+CANE DA PASTORE BERGAMASCO,194,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-bergamasco
+CANE DA PASTORE CATALANO,087,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,A,"A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-catalano
+CANE DA PASTORE CATALANO,087,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,B,"A PELO CORTO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-catalano
+CANE DA PASTORE CROATO,277,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-croato
+CANE DA PASTORE DEI PIRENEI A FACCIA RASA,138,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-dei-pirenei-a-faccia-rasa
+CANE DA PASTORE DEI PIRENEI A PELO LUNGO,141,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-dei-pirenei-a-pelo-lungo
+CANE DA PASTORE DELLA RUSSIA MERIDIONALE,326,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-della-russia-meridionale
+CANE DA PASTORE DELLA SILA,904,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-della-sila
+CANE DA PASTORE DI BEAUCE,044,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,A,"NERO FOCATO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-di-beauce
+CANE DA PASTORE DI BEAUCE,044,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,B,"ARLECCHINO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-di-beauce
+CANE DA PASTORE DI BRIE,113,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,A,"NERO ARDESIA",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-di-brie
+CANE DA PASTORE DI BRIE,113,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,B,"FULVO GRIGIO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-di-brie
+CANE DA PASTORE DI PICARDIA,176,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-di-picardia
+CANE DA PASTORE DI TATRA,252,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-di-tatra
+CANE DA PASTORE DI OROPA,905,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-di-oropa
+CANE DA PASTORE MALLORQUIN,321,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,A,"A PELO CORTO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-mallorquin
+CANE DA PASTORE MALLORQUIN,321,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,B,"A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-mallorquin
+CANE DA PASTORE OLANDESE,223,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,A,"A PELO CORTO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-olandese
+CANE DA PASTORE OLANDESE,223,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,B,"A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-olandese
+CANE DA PASTORE OLANDESE,223,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,C,"A PELO RUVIDO",https://www.enci.it/libro-genealogico/razze/cane-da-pastore-olandese
+CANE DA PASTORE POLACCO DI VALLEE,251,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-polacco-di-vallee
+CANE DA PASTORE SCOZZESE A PELO CORTO,296,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-scozzese-a-pelo-corto
+CANE DA PASTORE SCOZZESE A PELO LUNGO,156,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-scozzese-a-pelo-lungo
+CANE DA PASTORE SCOZZESE SHETLAND,088,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-scozzese-shetland
+CANE DELLE ALPI APUANE,908,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-delle-alpi-apuane
+CANE LUPO CECOSLOVACCO,332,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-lupo-cecoslovacco
+CANE LUPO DI SAARLOOS,311,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cane-lupo-di-saarloos
+CAO DA SIERRA DE AIRES,093,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/cao-da-sierra-de-aires
+CHODSKÝ PES (CZ),364,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/chodsky-pes-cz
+CANE CORSO,343,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cane-corso
+CANE DA MONTAGNA DEI PIRENEI,137,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cane-da-montagna-dei-pirenei
+CANE DA PASTORE DEL CAUCASO,328,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-del-caucaso
+CANE DA PASTORE DELL'ASIA CENTRALE,335,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-dell-asia-centrale
+CANE DA PASTORE DI CIARPLANINA,041,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-di-ciarplanina
+CANE DA PASTORE DI KARST,278,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cane-da-pastore-di-karst
+CANE DA SIERRA DI ESTRELA,173,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,A,"A PELO CORTO",https://www.enci.it/libro-genealogico/razze/cane-da-sierra-di-estrela
+CANE DA SIERRA DI ESTRELA,173,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,B,"A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/cane-da-sierra-di-estrela
+CANE DE CASTRO LABOREIRO,170,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cane-de-castro-laboreiro
+CANE DELL'ATLAS,247,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cane-dell-atlas
+CANE DI SAN BERNARDO,061,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,A,"A PELO CORTO",https://www.enci.it/libro-genealogico/razze/cane-di-san-bernardo
+CANE DI SAN BERNARDO,061,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,B,"A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/cane-di-san-bernardo
+CANE FONNESE,902,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cane-fonnese
+CAO DE GADO TRANSMONTANO,368,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,TIPO CANE DA MONTAGNA,,,https://www.enci.it/libro-genealogico/razze/cao-de-gado-transmontano
+CAO FILA DE SAO MIGUEL,340,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cao-fila-de-sao-miguel
+CIMARRON URUGUAYO,353,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/cimarron-uruguayo
+CIOBANESC ROMANESC DE BUCOVINA,357,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/ciobanesc-romanesc-de-bucovina
+CONTINENTAL BULLDOG,369,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,CANI DA MONTAGNA,,,https://www.enci.it/libro-genealogico/razze/continental-bulldog
+CAIRN TERRIER,004,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/cairn-terrier
+CANADIAN ESKIMO DOG,211,5,CANI TIPO SPITZ E TIPO PRIMITIVO,1,CANI NORDICI DA SLITTA,,,https://www.enci.it/libro-genealogico/razze/canadian-eskimo-dog
+CANE DA ORSO DELLA CARELIA,048,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/cane-da-orso-della-carelia
+CHOW-CHOW,205,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/chow-chow
+CANAAN DOG,273,5,CANI TIPO SPITZ E TIPO PRIMITIVO,6,TIPO PRIMITIVO,,,https://www.enci.it/libro-genealogico/razze/canaan-dog
+CIRNECO DELL'ETNA,199,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/cirneco-dell-etna
+CHIEN D'ARTOIS,028,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/chien-d-artois
+CANE DA FERMA BOEMO A PELO RUVIDO,245,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/cane-da-ferma-boemo-a-pelo-ruvido
+CANE DA FERMA TEDESCO A PELO CORTO,119,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/cane-da-ferma-tedesco-a-pelo-corto
+CANE DA FERMA TEDESCO A PELO DURO,098,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/cane-da-ferma-tedesco-a-pelo-duro
+CANE DA FERMA TEDESCO A PELO LUNGO,117,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/cane-da-ferma-tedesco-a-pelo-lungo
+CANE DA FERMA TEDESCO A PELO RUVIDO,232,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/cane-da-ferma-tedesco-a-pelo-ruvido
+CHESAPEAKE BAY RETRIEVER,263,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,1,CANI DA RIPORTO,,,https://www.enci.it/libro-genealogico/razze/chesapeake-bay-retriever
+CURLY-COATED RETRIEVER,110,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,1,CANI DA RIPORTO,,,https://www.enci.it/libro-genealogico/razze/curly-coated-retriever
+CLUMBER SPANIEL,109,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,,,https://www.enci.it/libro-genealogico/razze/clumber-spaniel
+COCKER AMERICANO,167,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,A,"NERO",https://www.enci.it/libro-genealogico/razze/cocker-americano
+COCKER AMERICANO,167,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,B,"ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/cocker-americano
+COCKER AMERICANO,167,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,C,"PARTICOLOR",https://www.enci.it/libro-genealogico/razze/cocker-americano
+COCKER SPANIEL INGLESE,005,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,A,"ROSSO",https://www.enci.it/libro-genealogico/razze/cocker-spaniel-inglese
+COCKER SPANIEL INGLESE,005,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,B,"NERO",https://www.enci.it/libro-genealogico/razze/cocker-spaniel-inglese
+COCKER SPANIEL INGLESE,005,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,C,"ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/cocker-spaniel-inglese
+CAO DE AGUA,037,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,3,CANI DA ACQUA,A,"PELO A BOCCOLI",https://www.enci.it/libro-genealogico/razze/cao-de-agua
+CAO DE AGUA,037,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,3,CANI DA ACQUA,B,"PELO ONDULATO",https://www.enci.it/libro-genealogico/razze/cao-de-agua
+COTON DE TULEAR,283,9,CANI DA COMPAGNIA,1,BICHONS E AFFINI,,,https://www.enci.it/libro-genealogico/razze/coton-de-tulear
+CHINESE CRESTED DOG,288,9,CANI DA COMPAGNIA,4,CANI NUDI,A,"SENZA PELO",https://www.enci.it/libro-genealogico/razze/chinese-crested-dog
+CHINESE CRESTED DOG,288,9,CANI DA COMPAGNIA,4,CANI NUDI,B,"CON PELO",https://www.enci.it/libro-genealogico/razze/chinese-crested-dog
+CHIHUAHUA,218,9,CANI DA COMPAGNIA,6,CHIHUAHUA,A,"A PELO CORTO",https://www.enci.it/libro-genealogico/razze/chihuahua
+CHIHUAHUA,218,9,CANI DA COMPAGNIA,6,CHIHUAHUA,B,"A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/chihuahua
+CAVALIER KING CHARLES SPANIEL,136,9,CANI DA COMPAGNIA,7,SPANIEL INGLESI DA COMPAGNIA,A,"BLACK AND TAN",https://www.enci.it/libro-genealogico/razze/cavalier-king-charles-spaniel
+CAVALIER KING CHARLES SPANIEL,136,9,CANI DA COMPAGNIA,7,SPANIEL INGLESI DA COMPAGNIA,B,"RUBY",https://www.enci.it/libro-genealogico/razze/cavalier-king-charles-spaniel
+CAVALIER KING CHARLES SPANIEL,136,9,CANI DA COMPAGNIA,7,SPANIEL INGLESI DA COMPAGNIA,C,"BLENHEIM",https://www.enci.it/libro-genealogico/razze/cavalier-king-charles-spaniel
+CAVALIER KING CHARLES SPANIEL,136,9,CANI DA COMPAGNIA,7,SPANIEL INGLESI DA COMPAGNIA,D,"TRICOLORE",https://www.enci.it/libro-genealogico/razze/cavalier-king-charles-spaniel
+CHIN,206,9,CANI DA COMPAGNIA,8,EPAGNEUL GIAPPONESI E PECHINESI,,,https://www.enci.it/libro-genealogico/razze/chin
+CARLINO,253,9,CANI DA COMPAGNIA,11,MOLOSSOIDI DI PICCOLA TAGLIA,A,"FULVO CON MASCHERA NERA",https://www.enci.it/libro-genealogico/razze/carlino
+CARLINO,253,9,CANI DA COMPAGNIA,11,MOLOSSOIDI DI PICCOLA TAGLIA,B,"NERO",https://www.enci.it/libro-genealogico/razze/carlino
+DANSK-SVENSK GARDSHUND,356,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,,,https://www.enci.it/libro-genealogico/razze/dansk-svensk-gardshund
+DOBERMANN,143,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,A,"NERO FOCATO",https://www.enci.it/libro-genealogico/razze/dobermann
+DOBERMANN,143,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,B,"MARRONE FOCATO",https://www.enci.it/libro-genealogico/razze/dobermann
+DOGO ARGENTINO,292,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/dogo-argentino
+DOGUE DE BORDEAUX,116,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/dogue-de-bordeaux
+DEUTSCHER JAGDTERRIER,103,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/deutscher-jagdterrier
+DANDIE DINMONT TERRIER,168,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/dandie-dinmont-terrier
+DREVER,130,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/drever
+DUNKER,203,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/dunker
+DALMATA,153,6,SEGUGI E CANI PER PISTA DI SANGUE,3,RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/dalmata
+DEERHOUND,164,10,LEVRIERI,2,LEVRIERI A PELO DURO,,,https://www.enci.it/libro-genealogico/razze/deerhound
+ENGLISH TOY TERRIER BLACK AND TAN,013,3,TERRIER,4,TERRIER DI COMPAGNIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/english-toy-terrier-black-and-tan
+EURASIER,291,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/eurasier
+EESTI HAGIJAS,366,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/eesti-hagijas
+EPAGNEUL BLUE DE PICARDIE,106,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/epagneul-blue-de-picardie
+EPAGNEUL BRETON,095,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,A,"BIANCO ARANCIO",https://www.enci.it/libro-genealogico/razze/epagneul-breton
+EPAGNEUL BRETON,095,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,B,"ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/epagneul-breton
+EPAGNEUL DE PONT - AUDEMER,114,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/epagneul-de-pont-audemer
+EPAGNEUL FRANCAIS,175,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/epagneul-francais
+EPAGNEUL OLANDESE DI DRENT,224,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/epagneul-olandese-di-drent
+EPAGNEUL PICARD,108,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/epagneul-picard
+EPAGNEUL NANO CONTINENTALE,077,9,CANI DA COMPAGNIA,9,SPANIEL NANI CONTINENTALI,A,"PAPILLON",https://www.enci.it/libro-genealogico/razze/epagneul-nano-continentale
+EPAGNEUL NANO CONTINENTALE,077,9,CANI DA COMPAGNIA,9,SPANIEL NANI CONTINENTALI,AA,"PAPILLON DA 1,5 A 2,5 KG",https://www.enci.it/libro-genealogico/razze/epagneul-nano-continentale
+EPAGNEUL NANO CONTINENTALE,077,9,CANI DA COMPAGNIA,9,SPANIEL NANI CONTINENTALI,AB,"PAPILLON DA 2,5 A 4,5 KG",https://www.enci.it/libro-genealogico/razze/epagneul-nano-continentale
+EPAGNEUL NANO CONTINENTALE,077,9,CANI DA COMPAGNIA,9,SPANIEL NANI CONTINENTALI,B,"PHALENE",https://www.enci.it/libro-genealogico/razze/epagneul-nano-continentale
+EPAGNEUL NANO CONTINENTALE,077,9,CANI DA COMPAGNIA,9,SPANIEL NANI CONTINENTALI,BA,"PHALENE DA 1,5 A 2,5 KG",https://www.enci.it/libro-genealogico/razze/epagneul-nano-continentale
+EPAGNEUL NANO CONTINENTALE,077,9,CANI DA COMPAGNIA,9,SPANIEL NANI CONTINENTALI,BB,"PHALENE DA 2,5 A 4,5 KG",https://www.enci.it/libro-genealogico/razze/epagneul-nano-continentale
+FILA BRASILEIRO,225,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/fila-brasileiro
+FOX TERRIER A PELO LISCIO,012,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/fox-terrier-a-pelo-liscio
+FOX TERRIER A PELO RUVIDO,169,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/fox-terrier-a-pelo-ruvido
+FOXHOUND,159,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/foxhound
+FOXHOUND AMERICANO,303,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/foxhound-americano
+FRANCAIS BLANC E NOIR,220,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/francais-blanc-e-noir
+FRANCAIS BLANC E ORANGE,316,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/francais-blanc-e-orange
+FRANCAIS TRICOLORE,219,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/francais-tricolore
+FLAT COATED RETRIEVER,121,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,1,CANI DA RIPORTO,,,https://www.enci.it/libro-genealogico/razze/flat-coated-retriever
+FIELD SPANIEL,123,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,,,https://www.enci.it/libro-genealogico/razze/field-spaniel
+GRANDE BOVARO SVIZZERO,058,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,3,BOVARI SVIZZERI,,,https://www.enci.it/libro-genealogico/razze/grande-bovaro-svizzero
+GOS RATER VALENCIA,370,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/gos-rater-valencia
+GROENLANDESE,274,5,CANI TIPO SPITZ E TIPO PRIMITIVO,1,CANI NORDICI DA SLITTA,,,https://www.enci.it/libro-genealogico/razze/groenlandese
+GASCON SAINTONGEOIS,021,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/gascon-saintongeois
+GONCZY POLSKI,354,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/gonczy-polski
+GRAND ANGLO FRANCAIS BLANC ET NOIR,323,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/grand-anglo-francais-blanc-et-noir
+GRAND ANGLO FRANCAIS BLANC ET ORANGE,324,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/grand-anglo-francais-blanc-et-orange
+GRAND ANGLO FRANCAIS TRICOLORE,322,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/grand-anglo-francais-tricolore
+GRAND BASSET GRIFFON VENDEEN,033,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/grand-basset-griffon-vendeen
+GRAND BLEU DE GASCOGNE,022,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/grand-bleu-de-gascogne
+GRAND GRIFFON VENDEEN,282,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/grand-griffon-vendeen
+GRIFFON BLEU DE GASCOGNE,032,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/griffon-bleu-de-gascogne
+GRIFFON FAUVE DE BRETAGNE,066,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/griffon-fauve-de-bretagne
+GRIFFON NIVERNAIS,017,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/griffon-nivernais
+GAMMEL DANSK HONSENHUND,281,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/gammel-dansk-honsenhund
+GRANDE MUENSTERLANDER,118,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/grande-muensterlander
+GRIFFONE A PELO DURO (KORTHALS),107,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/griffone-a-pelo-duro-korthals
+GOLDEN RETRIEVER,111,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,1,CANI DA RIPORTO,,,https://www.enci.it/libro-genealogico/razze/golden-retriever
+GRIFFONE BELGA,081,9,CANI DA COMPAGNIA,3,CANI BELGI DI PICCOLA TAGLIA,,,https://www.enci.it/libro-genealogico/razze/griffone-belga
+GRIFFONE DI BRUXELLES,080,9,CANI DA COMPAGNIA,3,CANI BELGI DI PICCOLA TAGLIA,,,https://www.enci.it/libro-genealogico/razze/griffone-di-bruxelles
+GALGO ESPANOL,285,10,LEVRIERI,3,LEVRIERI A PELO CORTO,,,https://www.enci.it/libro-genealogico/razze/galgo-espanol
+GREYHOUND,158,10,LEVRIERI,3,LEVRIERI A PELO CORTO,,,https://www.enci.it/libro-genealogico/razze/greyhound
+HOVAWART,190,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/hovawart
+HOKKAIDO,261,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/hokkaido
+HALDENSTOVARE,267,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/haldenstovare
+HAMILTON STOVARE,132,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/hamilton-stovare
+HARRIER,295,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/harrier
+HYGHENHUND,266,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/hyghenhund
+HANNOVERISCHER SCHWEISSHUND,213,6,SEGUGI E CANI PER PISTA DI SANGUE,2,SEGUGI E CANI PER PISTA DI SANGUE,,,https://www.enci.it/libro-genealogico/razze/hannoverischer-schweisshund
+IRISH GLEN OF IMAAL TERRIER,302,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/irish-glen-of-imaal-terrier
+IRISH SOFT-COATED WHEATEN TERRIER,040,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/irish-soft-coated-wheaten-terrier
+IRISH TERRIER,139,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/irish-terrier
+ICELAND DOG- CANE DA PASTORE DI ISLANDA,289,5,CANI TIPO SPITZ E TIPO PRIMITIVO,3,CANI NORDICI DA GUARDIA E DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/iceland-dog-cane-da-pastore-di-islanda
+IRISH WATER SPANIEL,124,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,3,CANI DA ACQUA,,,https://www.enci.it/libro-genealogico/razze/irish-water-spaniel
+IRISH WOLFHOUND,160,10,LEVRIERI,2,LEVRIERI A PELO DURO,,,https://www.enci.it/libro-genealogico/razze/irish-wolfhound
+JACK RUSSELL TERRIER,345,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/jack-russell-terrier
+JAMTHUND,042,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/jamthund
+KOMONDOR,053,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/komondor
+KUVASZ,054,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/kuvasz
+KANGAL COBAN KOPEGI,331,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/kangal-coban-kopegi
+KERRY BLUE TERRIER,003,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/kerry-blue-terrier
+KAI,317,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/kai
+KISHU,318,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/kishu
+KOREA JINDO DOG,334,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/korea-jindo-dog
+KOOIKERHONDJE,314,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,,,https://www.enci.it/libro-genealogico/razze/kooikerhondje
+KING CHARLES SPANIEL,128,9,CANI DA COMPAGNIA,7,SPANIEL INGLESI DA COMPAGNIA,A,"BLACK AND TAN",https://www.enci.it/libro-genealogico/razze/king-charles-spaniel
+KING CHARLES SPANIEL,128,9,CANI DA COMPAGNIA,7,SPANIEL INGLESI DA COMPAGNIA,B,"RUBY",https://www.enci.it/libro-genealogico/razze/king-charles-spaniel
+KING CHARLES SPANIEL,128,9,CANI DA COMPAGNIA,7,SPANIEL INGLESI DA COMPAGNIA,C,"BLENHEIM",https://www.enci.it/libro-genealogico/razze/king-charles-spaniel
+KING CHARLES SPANIEL,128,9,CANI DA COMPAGNIA,7,SPANIEL INGLESI DA COMPAGNIA,D,"TRICOLORE",https://www.enci.it/libro-genealogico/razze/king-charles-spaniel
+KROMFORHLANDER,192,9,CANI DA COMPAGNIA,10,KROMFORHLANDER,,,https://www.enci.it/libro-genealogico/razze/kromforhlander
+LANCASHIRE HEELER,360,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/lancashire-heeler
+LANDSEER,226,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/landseer
+LEONBERGER,145,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/leonberger
+LAKELAND TERRIER,070,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/lakeland-terrier
+LAIKA DELLA SIBERIA OCCIDENTALE,306,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/laika-della-siberia-occidentale
+LAIKA DELLA SIBERIA ORIENTALE,305,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/laika-della-siberia-orientale
+LAIKA RUSSO-EUROPEO,304,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/laika-russo-europeo
+LAPINKOIRA,189,5,CANI TIPO SPITZ E TIPO PRIMITIVO,3,CANI NORDICI DA GUARDIA E DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/lapinkoira
+LAPINPOROKOIRA - PASTORE FINLANDESE DELLA LAPPONIA,284,5,CANI TIPO SPITZ E TIPO PRIMITIVO,3,CANI NORDICI DA GUARDIA E DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/lapinporokoira-pastore-finlandese-della-lapponia
+LABRADOR RETRIEVER,122,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,1,CANI DA RIPORTO,,,https://www.enci.it/libro-genealogico/razze/labrador-retriever
+LAGOTTO ROMAGNOLO,298,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,3,CANI DA ACQUA,,,https://www.enci.it/libro-genealogico/razze/lagotto-romagnolo
+LHASA APSO,227,9,CANI DA COMPAGNIA,5,CANI DEL TIBET,,,https://www.enci.it/libro-genealogico/razze/lhasa-apso
+LEVRIERO AFGANO,228,10,LEVRIERI,1,LEVRIERI A PELO LUNGO O FRANGIATO,,,https://www.enci.it/libro-genealogico/razze/levriero-afgano
+LEVRIERO POLACCO,333,10,LEVRIERI,3,LEVRIERI A PELO CORTO,,,https://www.enci.it/libro-genealogico/razze/levriero-polacco
+MINIATURE AMERICAN SHEPHERD,367,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/miniature-american-shepherd
+MUDI,238,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/mudi
+MASTIFF,264,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/mastiff
+MASTINO DEI PIRENEI,092,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/mastino-dei-pirenei
+MASTINO NAPOLETANO,197,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/mastino-napoletano
+MASTINO SICILIANO/CANE DI MANNARA,903,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/mastino-siciliano-cane-di-mannara
+MASTINO SPAGNOLO,091,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/mastino-spagnolo
+MANCHESTER TERRIER,071,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/manchester-terrier
+MALTESE,065,9,CANI DA COMPAGNIA,1,BICHONS E AFFINI,,,https://www.enci.it/libro-genealogico/razze/maltese
+MAGYAR AGAR,240,10,LEVRIERI,3,LEVRIERI A PELO CORTO,,,https://www.enci.it/libro-genealogico/razze/magyar-agar
+NORFOLK TERRIER,272,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/norfolk-terrier
+NORWICH TERRIER,072,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/norwich-terrier
+NORBOTTENSPETS,276,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/norbottenspets
+NORSK ELGHUND GRIGIO,242,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/norsk-elghund-grigio
+NORSK ELGHUND NERO,268,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/norsk-elghund-nero
+NORSK LUNDEHUND,265,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/norsk-lundehund
+NORSK BUHUND,237,5,CANI TIPO SPITZ E TIPO PRIMITIVO,3,CANI NORDICI DA GUARDIA E DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/norsk-buhund
+NOVA SCOTIA DUCK TOLLING RETRIEVER,312,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,1,CANI DA RIPORTO,,,https://www.enci.it/libro-genealogico/razze/nova-scotia-duck-tolling-retriever
+OLD ENGLISH SHEEPDOG,016,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/old-english-sheepdog
+OTTERHOUND,294,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/otterhound
+PASTORE DELLA LESSINIA E DEL LAGORAI,907,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/pastore-della-lessinia-e-del-lagorai
+PASTORE SVIZZERO BIANCO,347,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/pastore-svizzero-bianco
+PASTORE TEDESCO,166,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,A,"A PELO CORTO",https://www.enci.it/libro-genealogico/razze/pastore-tedesco
+PASTORE TEDESCO,166,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,B,"A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/pastore-tedesco
+PULI,055,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,A,"BIANCO",https://www.enci.it/libro-genealogico/razze/puli
+PULI,055,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,B,"ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/puli
+PUMI,056,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/pumi
+PINSCHER,184,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,,,https://www.enci.it/libro-genealogico/razze/pinscher
+PINSCHER AUSTRIACO A PELO CORTO,064,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,,,https://www.enci.it/libro-genealogico/razze/pinscher-austriaco-a-pelo-corto
+PERRO DOGO MALLORQUIN,249,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/perro-dogo-mallorquin
+PRESA CANARIO,346,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/presa-canario
+PARSON RUSSELL TERRIER,339,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/parson-russell-terrier
+PERRO SIN PELO DEL PERU',310,5,CANI TIPO SPITZ E TIPO PRIMITIVO,6,TIPO PRIMITIVO,A,"GRANDE",https://www.enci.it/libro-genealogico/razze/perro-sin-pelo-del-peru
+PERRO SIN PELO DEL PERU',310,5,CANI TIPO SPITZ E TIPO PRIMITIVO,6,TIPO PRIMITIVO,B,"MEDIO",https://www.enci.it/libro-genealogico/razze/perro-sin-pelo-del-peru
+PERRO SIN PELO DEL PERU',310,5,CANI TIPO SPITZ E TIPO PRIMITIVO,6,TIPO PRIMITIVO,C,"PICCOLO",https://www.enci.it/libro-genealogico/razze/perro-sin-pelo-del-peru
+PHARAON HOUND,248,5,CANI TIPO SPITZ E TIPO PRIMITIVO,6,TIPO PRIMITIVO,,,https://www.enci.it/libro-genealogico/razze/pharaon-hound
+PODENCO CANARIO,329,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/podenco-canario
+PODENCO IBICENCO,089,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,A,"A PELO DURO",https://www.enci.it/libro-genealogico/razze/podenco-ibicenco
+PODENCO IBICENCO,089,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,B,"A PELO CORTO",https://www.enci.it/libro-genealogico/razze/podenco-ibicenco
+PODENGO PORTUGUES,094,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,AA,"A PELO DURO GRANDE",https://www.enci.it/libro-genealogico/razze/podengo-portugues
+PODENGO PORTUGUES,094,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,AB,"A PELO DURO MEDIO",https://www.enci.it/libro-genealogico/razze/podengo-portugues
+PODENGO PORTUGUES,094,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,AC,"A PELO DURO PICCOLO",https://www.enci.it/libro-genealogico/razze/podengo-portugues
+PODENGO PORTUGUES,094,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,BA,"A PELO LISCIO GRANDE",https://www.enci.it/libro-genealogico/razze/podengo-portugues
+PODENGO PORTUGUES,094,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,BB,"A PELO LISCIO MEDIO",https://www.enci.it/libro-genealogico/razze/podengo-portugues
+PODENGO PORTUGUES,094,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,BC,"A PELO LISCIO PICCOLO",https://www.enci.it/libro-genealogico/razze/podengo-portugues
+PETIT BASSET GRIFFON VENDEEN,067,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/petit-basset-griffon-vendeen
+PETIT BLEU DE GASCOGNE,031,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/petit-bleu-de-gascogne
+PICCOLO SEGUGIO DELLA SVIZZERA,060,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,AA,"DEL BERNESE A PELO LISCIO",https://www.enci.it/libro-genealogico/razze/piccolo-segugio-della-svizzera
+PICCOLO SEGUGIO DELLA SVIZZERA,060,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,AB,"DEL BERNESE A PELO DURO",https://www.enci.it/libro-genealogico/razze/piccolo-segugio-della-svizzera
+PICCOLO SEGUGIO DELLA SVIZZERA,060,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,B,"DEL GIURA",https://www.enci.it/libro-genealogico/razze/piccolo-segugio-della-svizzera
+PICCOLO SEGUGIO DELLA SVIZZERA,060,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,C,"DEL LUCERNESE",https://www.enci.it/libro-genealogico/razze/piccolo-segugio-della-svizzera
+PICCOLO SEGUGIO DELLA SVIZZERA,060,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,D,"SVIZZERO",https://www.enci.it/libro-genealogico/razze/piccolo-segugio-della-svizzera
+POITEVIN,024,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/poitevin
+PORCELAINE,030,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/porcelaine
+PICCOLO MUENSTERLANDER,102,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/piccolo-muensterlander
+PUDEL POINTER,216,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/pudel-pointer
+POINTER INGLESE,001,7,CANI DA FERMA,2,CANI DA FERMA BRITANNICI,,,https://www.enci.it/libro-genealogico/razze/pointer-inglese
+PERRO DE AGUA ESPANOL,336,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,3,CANI DA ACQUA,,,https://www.enci.it/libro-genealogico/razze/perro-de-agua-espanol
+PICCOLO CANE LEONE,233,9,CANI DA COMPAGNIA,1,BICHONS E AFFINI,,,https://www.enci.it/libro-genealogico/razze/piccolo-cane-leone
+PICCOLO BRABANTINO,082,9,CANI DA COMPAGNIA,3,CANI BELGI DI PICCOLA TAGLIA,,,https://www.enci.it/libro-genealogico/razze/piccolo-brabantino
+PECHINESE,207,9,CANI DA COMPAGNIA,8,EPAGNEUL GIAPPONESI E PECHINESI,,,https://www.enci.it/libro-genealogico/razze/pechinese
+PRAZSKY KRYSARIK,363,9,CANI DA COMPAGNIA,9,SPANIEL NANI CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/prazsky-krysarik
+PICCOLO LEVRIERO ITALIANO,200,10,LEVRIERI,3,LEVRIERI A PELO CORTO,,,https://www.enci.it/libro-genealogico/razze/piccolo-levriero-italiano
+ROMANIAN CARPATHIAN SHEPERD DOG,350,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/romanian-carpathian-sheperd-dog
+ROMANIAN MIORITIC SHEPERD DOG,349,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/romanian-mioritic-sheperd-dog
+RIESENSCHNAUZER,181,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,A,"PEPE SALE",https://www.enci.it/libro-genealogico/razze/riesenschnauzer
+RIESENSCHNAUZER,181,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,B,"NERO",https://www.enci.it/libro-genealogico/razze/riesenschnauzer
+RIESENSCHNAUZER,181,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,C,"NERO E ARGENTO",https://www.enci.it/libro-genealogico/razze/riesenschnauzer
+RAFEIRO DO ALENTEJO,096,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/rafeiro-do-alentejo
+ROTTWEILER,147,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/rottweiler
+RASTREADOR BRASILEIRO,275,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/rastreador-brasileiro
+RHODESIAN RIDGEBACK,146,6,SEGUGI E CANI PER PISTA DI SANGUE,3,RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/rhodesian-ridgeback
+RUSSIAN TOY,352,9,CANI DA COMPAGNIA,9,SPANIEL NANI CONTINENTALI,A,"PELO CORTO",https://www.enci.it/libro-genealogico/razze/russian-toy
+RUSSIAN TOY,352,9,CANI DA COMPAGNIA,9,SPANIEL NANI CONTINENTALI,B,"PELO LUNGO",https://www.enci.it/libro-genealogico/razze/russian-toy
+SCHAPENDOES,313,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/schapendoes
+SCHIPPERKE,083,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,A,"DA 3 A 5 KG.",https://www.enci.it/libro-genealogico/razze/schipperke
+SCHIPPERKE,083,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,B,"DA 5 A 8 KG",https://www.enci.it/libro-genealogico/razze/schipperke
+SLOVENSKY CUVAC,142,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/slovensky-cuvac
+SPINO DEGLI IBLEI,906,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/spino-degli-iblei
+SCHNAUZER MEDIO,182,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,A,"PEPE SALE",https://www.enci.it/libro-genealogico/razze/schnauzer-medio
+SCHNAUZER MEDIO,182,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,B,"NERO",https://www.enci.it/libro-genealogico/razze/schnauzer-medio
+SMOUSHOUND OLANDESE,308,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,,,https://www.enci.it/libro-genealogico/razze/smoushound-olandese
+SHAR PEI,309,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/shar-pei
+SCOTTISH TERRIER,073,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/scottish-terrier
+SEALYHAM TERRIER,074,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/sealyham-terrier
+SKYE TERRIER,075,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/skye-terrier
+STAFFORDSHIRE BULL TERRIER,076,3,TERRIER,3,TERRIER DI TIPO BULL (GAMBA LUNGA),,,https://www.enci.it/libro-genealogico/razze/staffordshire-bull-terrier
+SAMOIEDO,212,5,CANI TIPO SPITZ E TIPO PRIMITIVO,1,CANI NORDICI DA SLITTA,,,https://www.enci.it/libro-genealogico/razze/samoiedo
+SIBERIAN HUSKY,270,5,CANI TIPO SPITZ E TIPO PRIMITIVO,1,CANI NORDICI DA SLITTA,,,https://www.enci.it/libro-genealogico/razze/siberian-husky
+SPITZ FINNICO,049,5,CANI TIPO SPITZ E TIPO PRIMITIVO,2,CANI NORDICI DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/spitz-finnico
+SVENSK LAPPHUND,135,5,CANI TIPO SPITZ E TIPO PRIMITIVO,3,CANI NORDICI DA GUARDIA E DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/svensk-lapphund
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,A,"WOLFSPITZ",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,GA,"GRANDE BIANCO",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,GB,"GRANDE NERO O MARRONE",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,MA,"MEDIO BIANCO",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,MB,"MEDIO NERO O MARRONE",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,MC,"MEDIO ARANCIO, GRIGIO O ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,N,"NANO DI TUTTI I COLORI",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,PA,"PICCOLO BIANCO",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,PB,"PICCOLO NERO O MARRONE",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SPITZ TEDESCHI,097,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,PC,"PICCOLO ARANCIO, GRIGIO O ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/spitz-tedeschi
+SHIBA,257,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/shiba
+SHIKOKU,319,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/shikoku
+SPITZ GIAPPONESE,262,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/spitz-giapponese
+SABUESO ESPAGNOL,204,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/sabueso-espagnol
+SCHILLER STOVARE,131,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/schiller-stovare
+SEGUGI SVIZZERI,059,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,A,"DEL BERNESE",https://www.enci.it/libro-genealogico/razze/segugi-svizzeri
+SEGUGI SVIZZERI,059,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,B,"DEL GIURA",https://www.enci.it/libro-genealogico/razze/segugi-svizzeri
+SEGUGI SVIZZERI,059,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,C,"DEL LUCERNESE",https://www.enci.it/libro-genealogico/razze/segugi-svizzeri
+SEGUGI SVIZZERI,059,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,D,"SVIZZERO",https://www.enci.it/libro-genealogico/razze/segugi-svizzeri
+SEGUGIO AUSTRIACO NERO FOCATO,063,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-austriaco-nero-focato
+SEGUGIO DELLA BOSNIA A PELO DURO,155,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-della-bosnia-a-pelo-duro
+SEGUGIO DELLA STIRIA A PELO RUVIDO,062,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-della-stiria-a-pelo-ruvido
+SEGUGIO DELLA TRANSILVANIA,241,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-della-transilvania
+SEGUGIO DELLA WESTFALIA,100,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-della-westfalia
+SEGUGIO DELL'APPENNINO,901,6,SEGUGI E CANI PER PISTA DI SANGUE,2,SEGUGI E CANI PER PISTA DI SANGUE,A,"A PELO FORTE",https://www.enci.it/libro-genealogico/razze/segugio-dell-appennino
+SEGUGIO DELL'APPENNINO,901,6,SEGUGI E CANI PER PISTA DI SANGUE,2,SEGUGI E CANI PER PISTA DI SANGUE,B,"A PELO RASO",https://www.enci.it/libro-genealogico/razze/segugio-dell-appennino
+SEGUGIO DELL'ISTRIA A PELO DURO,152,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-dell-istria-a-pelo-duro
+SEGUGIO DELL'ISTRIA A PELO RASO,151,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-dell-istria-a-pelo-raso
+SEGUGIO ELLENICO,214,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-ellenico
+SEGUGIO FINLANDESE,051,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-finlandese
+SEGUGIO ITALIANO A PELO FORTE,198,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-italiano-a-pelo-forte
+SEGUGIO ITALIANO A PELO RASO,337,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-italiano-a-pelo-raso
+SEGUGIO MAREMMANO,361,6,SEGUGI E CANI PER PISTA DI SANGUE,2,SEGUGI E CANI PER PISTA DI SANGUE,A,"A PELO FORTE",https://www.enci.it/libro-genealogico/razze/segugio-maremmano
+SEGUGIO MAREMMANO,361,6,SEGUGI E CANI PER PISTA DI SANGUE,2,SEGUGI E CANI PER PISTA DI SANGUE,B,"A PELO RASO",https://www.enci.it/libro-genealogico/razze/segugio-maremmano
+SEGUGIO YUGOSLAVO DA MONTAGNA,279,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-yugoslavo-da-montagna
+SEGUGIO POLACCO,052,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-polacco
+SEGUGIO POSAVATZ,154,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-posavatz
+SEGUGIO SERBO,150,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-serbo
+SEGUGIO TRICOLORE JUGOSLAVO,229,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-tricolore-jugoslavo
+SEGUGIO TEDESCO,299,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-tedesco
+SEGUGIO TIROLESE,068,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/segugio-tirolese
+SLOVENSKY KOPOV,244,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/slovensky-kopov
+SMAALANDSSTOVARE,129,6,SEGUGI E CANI PER PISTA DI SANGUE,1,CANI DA SEGUITA,,,https://www.enci.it/libro-genealogico/razze/smaalandsstovare
+SPINONE ITALIANO,165,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,A,"BIANCO ARANCIO",https://www.enci.it/libro-genealogico/razze/spinone-italiano
+SPINONE ITALIANO,165,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,B,"ROANO MARRONE",https://www.enci.it/libro-genealogico/razze/spinone-italiano
+STABYHOUND,222,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,,,https://www.enci.it/libro-genealogico/razze/stabyhound
+SETTER GORDON,006,7,CANI DA FERMA,2,CANI DA FERMA BRITANNICI,,,https://www.enci.it/libro-genealogico/razze/setter-gordon
+SETTER INGLESE,002,7,CANI DA FERMA,2,CANI DA FERMA BRITANNICI,,,https://www.enci.it/libro-genealogico/razze/setter-inglese
+SETTER IRLANDESE ROSSO,120,7,CANI DA FERMA,2,CANI DA FERMA BRITANNICI,,,https://www.enci.it/libro-genealogico/razze/setter-irlandese-rosso
+SETTER IRLANDESE ROSSO-BIANCO,330,7,CANI DA FERMA,2,CANI DA FERMA BRITANNICI,,,https://www.enci.it/libro-genealogico/razze/setter-irlandese-rosso-bianco
+SPANIEL TEDESCO,104,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,,,https://www.enci.it/libro-genealogico/razze/spaniel-tedesco
+SPRINGER SPANIEL INGLESE,125,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,,,https://www.enci.it/libro-genealogico/razze/springer-spaniel-inglese
+SUSSEX SPANIEL,127,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,,,https://www.enci.it/libro-genealogico/razze/sussex-spaniel
+SPANIEL OLANDESE,221,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,3,CANI DA ACQUA,,,https://www.enci.it/libro-genealogico/razze/spaniel-olandese
+SHIH TZU,208,9,CANI DA COMPAGNIA,5,CANI DEL TIBET,,,https://www.enci.it/libro-genealogico/razze/shih-tzu
+SALUKI,269,10,LEVRIERI,1,LEVRIERI A PELO LUNGO O FRANGIATO,,,https://www.enci.it/libro-genealogico/razze/saluki
+SLOUGHI,188,10,LEVRIERI,3,LEVRIERI A PELO CORTO,,,https://www.enci.it/libro-genealogico/razze/sloughi
+TERRIER NERO RUSSO,327,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,,,https://www.enci.it/libro-genealogico/razze/terrier-nero-russo
+TERRANOVA,050,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,A,"NERO",https://www.enci.it/libro-genealogico/razze/terranova
+TERRANOVA,050,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,B,"MARRONE",https://www.enci.it/libro-genealogico/razze/terranova
+TERRANOVA,050,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,C,"BIANCO CON MACCHIE NERE",https://www.enci.it/libro-genealogico/razze/terranova
+TIBETAN MASTIFF,230,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/tibetan-mastiff
+TORNJAK,355,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/tornjak
+TOSA,260,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,2,MOLOSSOIDI,,,https://www.enci.it/libro-genealogico/razze/tosa
+TERRIER BRAZILEIRO,341,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/terrier-brazileiro
+TERRIER BOEMO,246,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/terrier-boemo
+TERRIER GIAPPONESE,259,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/terrier-giapponese
+THAI BANGKAEW DOG,358,5,CANI TIPO SPITZ E TIPO PRIMITIVO,5,SPITZ ASIATICI E RAZZE AFFINI,,,https://www.enci.it/libro-genealogico/razze/thai-bangkaew-dog
+TAIWAN DOG,348,5,CANI TIPO SPITZ E TIPO PRIMITIVO,7,TIPO PRIMITIVO DA CACCIA,,,https://www.enci.it/libro-genealogico/razze/taiwan-dog
+THAI RIDGEBACK DOG,338,5,CANI TIPO SPITZ E TIPO PRIMITIVO,8,TIPO PRIMITIVO DA CACCIA CON UNA CRESTA SUL DORSO,,,https://www.enci.it/libro-genealogico/razze/thai-ridgeback-dog
+TIBETAN SPANIEL,231,9,CANI DA COMPAGNIA,5,CANI DEL TIBET,,,https://www.enci.it/libro-genealogico/razze/tibetan-spaniel
+TIBETAN TERRIER,209,9,CANI DA COMPAGNIA,5,CANI DEL TIBET,,,https://www.enci.it/libro-genealogico/razze/tibetan-terrier
+VÄSTGÖTASPETS,014,5,CANI TIPO SPITZ E TIPO PRIMITIVO,3,CANI NORDICI DA GUARDIA E DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/vastgotaspets
+VOLPINO ITALIANO,195,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,A,"BIANCO",https://www.enci.it/libro-genealogico/razze/volpino-italiano
+VOLPINO ITALIANO,195,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,B,"ROSSO",https://www.enci.it/libro-genealogico/razze/volpino-italiano
+VOLPINO ITALIANO,195,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,C,"NERO",https://www.enci.it/libro-genealogico/razze/volpino-italiano
+VOLPINO ITALIANO,195,5,CANI TIPO SPITZ E TIPO PRIMITIVO,4,SPITZ EUROPEI,D,"ALTRI COLORI",https://www.enci.it/libro-genealogico/razze/volpino-italiano
+WELSH CORGI CARDIGAN,038,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/welsh-corgi-cardigan
+WELSH CORGI PEMBROKE,039,1,CANI DA PASTORE E BOVARI (ESCLUSI BOVARI SVIZZERI),1,CANI DA PASTORE,,,https://www.enci.it/libro-genealogico/razze/welsh-corgi-pembroke
+WELSH TERRIER,078,3,TERRIER,1,TERRIER DI TAGLIA GRANDE E MEDIA,,,https://www.enci.it/libro-genealogico/razze/welsh-terrier
+WEST HIGHLAND WHITE TERRIER,085,3,TERRIER,2,TERRIER DI PICCOLA TAGLIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/west-highland-white-terrier
+WEIMARANER,099,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,A,"A PELO CORTO",https://www.enci.it/libro-genealogico/razze/weimaraner
+WEIMARANER,099,7,CANI DA FERMA,1,CANI DA FERMA CONTINENTALI,B,"A PELO LUNGO",https://www.enci.it/libro-genealogico/razze/weimaraner
+WELSH SPRINGER SPANIEL,126,8,CANI DA RIPORTO CANI DA CERCA CANI DA ACQUA,2,CANI DA CERCA,,,https://www.enci.it/libro-genealogico/razze/welsh-springer-spaniel
+WHIPPET,162,10,LEVRIERI,3,LEVRIERI A PELO CORTO,,,https://www.enci.it/libro-genealogico/razze/whippet
+XOLOITZCUINTLE,234,5,CANI TIPO SPITZ E TIPO PRIMITIVO,6,TIPO PRIMITIVO,A,"STANDARD",https://www.enci.it/libro-genealogico/razze/xoloitzcuintle
+XOLOITZCUINTLE,234,5,CANI TIPO SPITZ E TIPO PRIMITIVO,6,TIPO PRIMITIVO,B,"INTERMEDIO",https://www.enci.it/libro-genealogico/razze/xoloitzcuintle
+XOLOITZCUINTLE,234,5,CANI TIPO SPITZ E TIPO PRIMITIVO,6,TIPO PRIMITIVO,C,"MINIATURA",https://www.enci.it/libro-genealogico/razze/xoloitzcuintle
+YORKSHIRE TERRIER,086,3,TERRIER,4,TERRIER DI COMPAGNIA (GAMBA CORTA),,,https://www.enci.it/libro-genealogico/razze/yorkshire-terrier
+YAKUTSKAYA LAIKA,365,5,Cani di tipo Spitz e di tipo primitivo,1,Cani nordici da slitta,,,https://www.enci.it/libro-genealogico/razze/yakutskaya-laika
+ZWERGPINSCHER,185,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,,,https://www.enci.it/libro-genealogico/razze/zwergpinscher
+ZWERGSCHNAUZER,183,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,A,"PEPE SALE",https://www.enci.it/libro-genealogico/razze/zwergschnauzer
+ZWERGSCHNAUZER,183,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,B,"NERO",https://www.enci.it/libro-genealogico/razze/zwergschnauzer
+ZWERGSCHNAUZER,183,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,C,"NERO ARGENTO",https://www.enci.it/libro-genealogico/razze/zwergschnauzer
+ZWERGSCHNAUZER,183,2,CANI DI TIPO PINSCHER E SCHNAUZER- MOLOSSOIDI E CANI BOVARI SVIZZERI,1,TIPO PINSCHER E SCHNAUZER,D,"BIANCO",https://www.enci.it/libro-genealogico/razze/zwergschnauzer
