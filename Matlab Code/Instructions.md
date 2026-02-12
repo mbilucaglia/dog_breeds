@@ -40,7 +40,7 @@ Il processo di estrazione si articola in due fasi principali:
 
 ### 1️⃣ Estrazione elenco razze
 
-- Lettura delle pagine filtrate per lettera (`?startWith=A`, ecc.)
+- Lettura delle pagine filtrate per lettera (`?startWith=`)
 - Parsing della struttura HTML:
   - `h3.razza-sezione` → Gruppo
   - `h4.razza-sezione` → Sezione
