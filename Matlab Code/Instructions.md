@@ -1,32 +1,26 @@
 # ENCI Breed Scraper (MATLAB)
 
-Questo progetto implementa uno scraper strutturato in **MATLAB** per l’estrazione automatica delle informazioni sulle razze canine dal sito ufficiale ENCI (Ente Nazionale Cinofilia Italiana) restituendo un dataset normalizzato contenente informazioni a livello di razza e di varietà.
+Questo progetto implementa uno scraper in **MATLAB** per l’estrazione delle informazioni sulle razze canine dal sito ufficiale ENCI (Ente Nazionale Cinofilia Italiana).
 
 ## 🎯 Funzionalità
 
-Lo scraper estrae automaticamente:
+Lo scraper estrae:
 
 - Nome della razza  
-- Codice FCI (preservando eventuali zeri iniziali)  
-- Gruppo FCI (ID numerico e denominazione completa)  
-- Sezione FCI (ID numerico e denominazione completa)  
+- Codice FCI
+- Gruppo FCI (ID numerico e denominazione in italiano)  
+- Sezione FCI (ID numerico e denominazione in italiano)  
 - Codice varietà (se presente)  
-- Nome varietà (se presente)  
-- URL dell’immagine associata (macro-gallery)  
+- Nome varietà (in italiano, se presente) 
 - URL della pagina della razza  
 
 Per le razze con più varietà, il dataset viene espanso in modo che **ogni varietà sia rappresentata da una riga distinta**.
 
-Per le razze senza varietà, viene creata una singola riga con campi varietà valorizzati come `missing`.
+Per le razze senza varietà, viene creata una singola riga con campi varietà `missing`.
 
 ## 📊 Modello dei dati
 
-Ogni riga del dataset rappresenta:
-
-- Una combinazione **Razza–Varietà** (se presenti varietà), oppure  
-- Una singola **Razza** (se non esistono varietà)
-
-### Struttura delle colonne
+Ogni riga del dataset rappresenta una combinazione **Razza–Varietà** (se presenti varietà), oppure  una singola **Razza** (se non esistono varietà).
 
 | Colonna | Descrizione |
 |----------|-------------|
