@@ -1,1 +1,1 @@
-
+List of dog breeds, split (at least) by breed and group, scraped from the webstites of several kennel clubs: FCI (Fédération Cynologique Internationale), ENCI (Ente Nazionale Cinofilia Italiana, IT), RKC (Royal Kennel Club, UK), AKC (American Kennel Club, US) and UKC (United Kennel Club, US). 
